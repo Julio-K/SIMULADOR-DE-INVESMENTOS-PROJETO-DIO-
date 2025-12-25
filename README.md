@@ -38,7 +38,7 @@ Ideal para:
 - Impostos, taxas e inflação não estão considerados automaticamente.
 - A planilha pode ser adaptada conforme a necessidade de cada usuário.
 
-## SAMIRA MARTINS DE ARAUJO
+## Julio K
 
-Desenvolvido por [SAMIRA MARTINS DE ARAUJO] com o apoio e inspiraçao do primeiro desafio de projedo da DIO das aulas Excel com Inteligência Artificial.  
+Desenvolvido por [Julio K] com o apoio e inspiraçao do primeiro desafio de projedo da DIO das aulas Excel com Inteligência Artificial.  
 Ferramenta gratuita de apoio à **educação financeira** e ao **autoconhecimento sobre investimentos**.
