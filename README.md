@@ -1,44 +1,81 @@
-# Simulador de Investimentos - Renda Fixa com Dividendos
-Este projeto é uma ferramenta desenvolvida em Excel para simular a evolução de investimentos em **Renda Fixa com distribuição de dividendos mensais**, com foco em perfis de risco e planejamento de longo prazo.
 
-## Objetivo
-Permitir que o usuário visualize, de forma clara e intuitiva:
-- O crescimento acumulado do seu patrimônio ao longo do tempo;
-- Os rendimentos mensais projetados com base em aportes e dividendos;
-- A evolução do fluxo de caixa futuro baseado em diferentes estratégias de investimento.
+# 📊 Simulador de Investimentos – Renda Fixa com Rendimentos Mensais
 
-## Público-Alvo
-Ideal para:
-- Investidores iniciantes que desejam entender o poder dos juros compostos;
-- Pessoas em fase de organização financeira;
-- Planejadores e consultores que desejam apresentar simulações para seus clientes.
+Este repositório contém um **simulador de investimentos desenvolvido em Excel**, cujo objetivo é demonstrar a evolução de investimentos em **renda fixa com rendimentos mensais**, considerando aportes recorrentes e juros compostos ao longo do tempo.
 
-## Funcionalidades
-- Simulação de rendimentos mensais com base em:
-  - Valor inicial investido;
-  - Aportes mensais;
-  - Percentual estimado de dividendos;
-  - Tempo de aplicação (em meses ou anos);
-- Projeção acumulada de saldo total;
-- Estimativa de dividendos ao longo dos meses;
-- Visualização clara e prática para tomada de decisão.
+A ferramenta é voltada para **educação financeira**, permitindo que o usuário visualize cenários de crescimento patrimonial e fluxo de caixa futuro de forma simples e intuitiva.
 
-## Como Usar
-1. Abra o arquivo `SIMULADOR DE INVESTIMENTO.xlsx` no Excel.
-2. Na aba principal, preencha os campos:
-   - **Valor Inicial**: quanto deseja investir agora.
-   - **Aporte Mensal**: quanto pretende investir todo mês.
-   - **Taxa de Rendimento (Dividendos)**: percentual estimado mensal.
-   - **Prazo**: por quanto tempo deseja investir.
-3. Os resultados serão calculados automaticamente nas células ao lado.
-4. Use os dados para entender o potencial de crescimento dos seus investimentos.
+---
 
-## Observações
-- A simulação é uma estimativa e **não representa garantia de rentabilidade**.
-- Impostos, taxas e inflação não estão considerados automaticamente.
-- A planilha pode ser adaptada conforme a necessidade de cada usuário.
+## 🎯 Objetivo do Projeto
 
-## Julio K
+Permitir que o usuário:
 
-Desenvolvido por [Julio K] com o apoio e inspiraçao do primeiro desafio de projedo da DIO das aulas Excel com Inteligência Artificial.  
-Ferramenta gratuita de apoio à **educação financeira** e ao **autoconhecimento sobre investimentos**.
+* Visualize o crescimento acumulado do patrimônio ao longo do tempo;
+* Estime rendimentos mensais com base em aportes e taxa de rendimento;
+* Analise o impacto de diferentes prazos e estratégias de investimento;
+* Compreenda, de forma prática, o efeito dos juros compostos.
+
+---
+
+## 👥 Público-Alvo
+
+Este projeto é indicado para:
+
+* Investidores iniciantes;
+* Pessoas em fase de organização e planejamento financeiro;
+* Estudantes e entusiastas de educação financeira;
+* Consultores e planejadores financeiros que desejam apresentar simulações simples a clientes.
+
+---
+
+## ⚙️ Funcionalidades
+
+* Simulação de investimentos considerando:
+
+  * Valor inicial investido;
+  * Aportes mensais;
+  * Taxa estimada de rendimento mensal;
+  * Prazo do investimento (meses ou anos);
+* Projeção do saldo total acumulado;
+* Estimativa de rendimentos mensais ao longo do período;
+* Interface simples e objetiva, desenvolvida em Excel.
+
+---
+
+## 🚀 Como Utilizar
+
+1. Faça o download do arquivo `SIMULADOR DE INVESTIMENTO.xlsx`.
+2. Abra o arquivo no **Microsoft Excel** (versões compatíveis com fórmulas financeiras).
+3. Na aba principal, preencha:
+
+   * **Valor Inicial**: montante investido no início;
+   * **Aporte Mensal**: valor investido mensalmente;
+   * **Taxa de Rendimento**: percentual estimado de rendimento mensal;
+   * **Prazo**: duração total do investimento.
+4. Os resultados serão calculados automaticamente.
+5. Analise as projeções para avaliar o potencial de crescimento do investimento.
+
+---
+
+## ⚠️ Observações Importantes
+
+* Esta ferramenta fornece **simulações estimadas**, não constituindo recomendação de investimento.
+* **Não há garantia de rentabilidade**.
+* Impostos, taxas administrativas, riscos de mercado e inflação **não estão considerados automaticamente**.
+* Os parâmetros podem (e devem) ser ajustados conforme o cenário real do usuário.
+
+---
+
+## 📚 Contexto do Projeto
+
+Este simulador foi desenvolvido como parte do **primeiro desafio de projeto da DIO**, no curso **Excel com Inteligência Artificial**, com o objetivo de aplicar conceitos práticos de modelagem financeira em planilhas.
+
+---
+
+## 👤 Autor
+
+**Julio K**
+Projeto educacional de apoio à **educação financeira** e ao **autoconhecimento sobre investimentos**.
+
+
