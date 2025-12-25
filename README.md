@@ -45,7 +45,7 @@ Este projeto é indicado para:
 
 ## 🚀 Como Utilizar
 
-1. Faça o download do arquivo `SIMULADOR DE INVESTIMENTO.xlsx`.
+1. Faça o download do arquivo `2025-12- SIMULADOR DE INVESTIMENTO.xlsx`.
 2. Abra o arquivo no **Microsoft Excel** (versões compatíveis com fórmulas financeiras).
 3. Na aba principal, preencha:
 
